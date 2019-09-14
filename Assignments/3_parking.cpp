@@ -11,6 +11,7 @@ int main()
 	vector<int> pl(lot);
 	int numberCount = 0;
 	int car, current_lot, current_car = 0;
+	
 	while (numberCount<num) {
 		current_lot = pl.size();
 		int countReset = 0;
