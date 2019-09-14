@@ -29,7 +29,6 @@ int main()
         }
     }
     readFile.close();
-
     ifstream input("log.inp");
     ofstream outFile("log.out");
     int n;
