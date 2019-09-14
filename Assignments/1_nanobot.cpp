@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int row=0,col=-1,s=1,j=0;
 
 void upside(int** grid,int m){
