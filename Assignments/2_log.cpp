@@ -10,6 +10,7 @@ int main()
     int** days=new int*[logDay];
     int** times=new int*[logDay];
     int temp[10000]={0,};
+    
     for(int i=0; i<logDay; i++){
         days[i]=new int[2];//day,length
         readFile>>days[i][0];
