@@ -3,7 +3,6 @@
 #include <vector>
 #include <iterator>
 #include <algorithm>
-
 using namespace std;
 
 typedef unsigned int INT;
